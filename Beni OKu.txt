@@ -1,0 +1,13 @@
+1-)Mysql veri tabanını bağlamak için projeyle gelen kurtizi2 isimli veritabanı 
+dosyasını kendi Mysql veritabanınızı açıp kurtizi2 isimli bir veri tabanı 
+oluşturup ayrıca karşılaştırma kısmını da utf8_turkish_ci olarak seçip,
+veri tabanı oluşturduktan sonra içe aktarmanız gerekmektedir. 
+
+2-)Projeyi çalıştırırken veritabanı bağlantınızın
+açık olduğundan emin olunuz.
+
+3-) mysql-connector-java-5.1.49 klasörünün içindeki mysql-connector-java-5.1.49-bin.jar
+isimli dosyayı projenin libraries kısmına Add JAR/Folder.. kısmından ekleyiniz.
+
+4-) Kullanı Adı: admin
+    Şifre      : admin
